@@ -16,4 +16,4 @@ sum = num1 + num2
 
 # printing values
 
-print("Sum of {0} and {1} is {2}"
+print("Sum of {0} and {1} is {2}")
